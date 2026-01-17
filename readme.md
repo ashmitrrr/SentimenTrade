@@ -76,5 +76,13 @@ To run this project locally, follow the steps below.
 * `requirements.txt`: List of all Python dependencies required to run the application.
 * `.gitignore`: Configuration file to ensure local environment files are not tracked by version control.
 
+## Snapshots
+<img width="1460" height="696" alt="Screenshot 2026-01-17 at 2 12 45 PM" src="https://github.com/user-attachments/assets/81c2485e-1715-40ea-ae91-4118bf575692" />
+<img width="1470" height="737" alt="Screenshot 2026-01-17 at 2 13 01 PM" src="https://github.com/user-attachments/assets/75038855-66be-4d0a-840f-d62c9b5e7052" />
+<img width="1470" height="737" alt="Screenshot 2026-01-17 at 2 13 01 PM" src="https://github.com/user-attachments/assets/c378c8b8-e378-4fe2-bdcb-d80793b9cc3b" />
+<img width="75" height="17" alt="Screenshot 2026-01-17 at 2 13 05 PM" src="https://github.com/user-attachments/assets/cd065501-5d01-4db5-a11e-beace1005015" />
+<img width="1465" height="687" alt="Screenshot 2026-01-17 at 2 13 12 PM" src="https://github.com/user-attachments/assets/f28adf39-5f43-4a9a-87cc-fd1425e2a513" />
+<img width="1469" height="723" alt="Screenshot 2026-01-17 at 2 13 21 PM" src="https://github.com/user-attachments/assets/7a1983a7-1e45-43df-b400-5875dcf040fc" />
+
 ## Author
 **Ashmit Raina**

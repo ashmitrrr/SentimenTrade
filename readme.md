@@ -76,10 +76,5 @@ To run this project locally, follow the steps below.
 * `requirements.txt`: List of all Python dependencies required to run the application.
 * `.gitignore`: Configuration file to ensure local environment files are not tracked by version control.
 
-## Future Enhancements
-* **Database Integration:** Implementation of PostgreSQL to store sentiment history for longitudinal trend analysis.
-* **Cloud Deployment:** Containerization using Docker and deployment to AWS or Streamlit Cloud.
-* **Comparative Analysis:** Feature to compare sentiment and performance of multiple tickers simultaneously.
-
 ## Author
 **Ashmit Raina**

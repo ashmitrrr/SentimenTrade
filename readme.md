@@ -1,6 +1,6 @@
 # SentimenTrade: Real-Time Financial Sentiment Analysis Dashboard
 
-[![Streamlit App](https://sentimentrade-aap-ashmit.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sentimentrade-aap-ashmit.streamlit.app)
 
 ## Project Overview
 SentimenTrade is a full-stack financial intelligence tool designed to bridge the gap between qualitative news data and quantitative market price action. The application leverages Natural Language Processing (NLP) to perform real-time sentiment analysis on financial news headlines, visualizing the correlation between market sentiment and stock price movements.
